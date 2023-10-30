@@ -8,13 +8,9 @@ This is a simple Snake game implemented in Python using the Pygame library.
 - open source_code.py file with IDE or code editor to see game code.
 - Before running the game, you'll need to have Python and Pygame installed on your system.
 - Install python from official [python.org](sitehttps://www.python.org/) site.
-```Then Open terminal, CMD, bash or PowerShell and Install pygame library using `pip install pygame` ```
-- Lastly run `python main.py` to play the game.
+- Open terminal, Windows CMD, bash or PowerShell and Install pygame library using `pip install pygame`
+- Lastly run `python main.py` on the project folder to play the game.
 - you can also play directly on your pc by opening snake.exe
-
-### Important note
-
-
 
 ---
 
