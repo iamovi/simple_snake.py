@@ -8,9 +8,9 @@ This project is a simple implementation of the Snake game in Python, utilizing t
 
 ## How to use
 
-- simply clone the repository to your local machine or download code as zip and extract.
+- Simply clone the repository to your local machine or download code as zip and extract.
 - Open `source_code.py` file with IDE or code editor to see game code, add more features to the game if you want.
-- you can play directly on your pc by opening `snake.exe` file.
+- You can play directly on your pc by opening `snake.exe` file.
 
 ### Important note
 - Before running the game, you'll need to have Python and Pygame installed on your system!
