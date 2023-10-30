@@ -15,7 +15,7 @@ This project is a simple implementation of the Snake game in Python, utilizing t
 ### Important note
 - Before running the game, you'll need to have Python and Pygame installed on your system!
 - Install python from official [python.org](sitehttps://www.python.org/) site.
-- Install pygame on your local machine using `pip install python` prompt.
+- Install pygame on your local machine using `pip install pygame` prompt.
 
 ---
 
