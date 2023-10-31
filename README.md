@@ -31,6 +31,6 @@ Contributions to this project are welcome. If you have any ideas to improve the 
 
 ## Acknowledgements
 
-We'd like to thank the Pygame community for providing a great library to work with.
+I'd like to thank the Pygame community for providing a great library to work with.
 
 Enjoy the game!
